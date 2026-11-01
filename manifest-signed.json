@@ -1,0 +1,13 @@
+{
+  "manifest": {
+    "version": "1.0.0",
+    "files": [
+      {
+        "path": "update-test.txt",
+        "url": "https://tlstjrrl1234-png.github.io/sunlit-valley-updates/files/update-test.txt",
+        "sha256": "58908ED2B291197F24F45756589E97B1F80C3B0B68C2084BFF0BC3F9D17224B4"
+      }
+    ]
+  },
+  "signature": "F72tCSQrJ5N2w+EiMyxbiovRJxAWZHsjI1MOjx+7LqGWbbatwwnQpnxiT3np8S2oLvCGG8wsM/JZVtvVLk8HBg=="
+}
